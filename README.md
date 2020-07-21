@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi everyone :)
 
-<!--
-**seeden/seeden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on my new project 
+<a href="https://www.creolify.com">
+<img src="https://img.shields.io/badge/-creolify.com-D68AB1?link=https://www.creolify.com" alt="creolify.com">
+</a>  where you can create your website without coding.
 
-Here are some ideas to get you started:
+##  How to reach me
+<p>
+  
+<a href="https://github.com/seeden">
+  <img src="https://img.shields.io/github/followers/seeden?style=social">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/zlatkofedor">
+    <img src="https://img.shields.io/badge/Linkedin-zlatkofedor-blue" alt="zlatkofedor">
+</a>
+
+<a href="https://twitter.com/goodmodule">
+  <img src="https://img.shields.io/twitter/follow/goodmodule?style=social">
+</a>
+
+<a href="https://www.instagram.com/goodmodule">
+    <img src="https://img.shields.io/badge/Instagram-goodmoule-ff69b4" alt="GoodModule">
+</a>
+
+</p>
+
+_You can find the list of open source projects I have been a part of_ 👇
