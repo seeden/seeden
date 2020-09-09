@@ -1,9 +1,5 @@
 ### Hi everyone :)
 
-🔭 I’m currently working on my new project 
-<a href="https://www.creolify.com">
-<img src="https://img.shields.io/badge/-creolify.com-D68AB1?link=https://www.creolify.com" alt="creolify.com">
-</a>  where you can create your website without coding.
 
 ##  How to reach me
 <p>
